@@ -1,5 +1,6 @@
 import Design from "./components/Design"
 import Hero from "./components/Hero"
+import MailingListForm from "./components/MailingListForm"
 import Video from "./components/Video"
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Hero />
       <Video />
       <Design />
+      <MailingListForm />
     </div>
   )
 }
