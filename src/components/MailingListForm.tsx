@@ -8,7 +8,7 @@ const MailingListForm = () => {
                 <p className="text-black text-lg">
                     Fill this out to stay subscribed to our updates. For any other collaborations,
                     please reach out to us at{" "}
-                    <a href="mailto:hello@morpho.ai" className="text-blue-600 underline">
+                    <a href="mailto:ayna@morphoai.tech" className="text-blue-600 underline">
                         ayna@morphoai.tech
                     </a>
                 </p>
